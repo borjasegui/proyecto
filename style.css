@@ -7,9 +7,20 @@ id{
 
 body{
 	text-align: center;
+	
+
+	background-image: url("https://ambrahealth.com/wp-content/uploads/2016/08/025Pikachu_XY_anime_3.png");
+	background-repeat: no-repeat;
+	background-position:49% 4%;
+	background-attachment: fixed ;
+	
+
 }
+
 h1{
+	margin-bottom: 260px;
 	color: orange
+
 }
 .center-screen{
 	position: absolute;
@@ -27,4 +38,19 @@ button{
 	color: green;
 	display: block;
 	margin: 0 auto 28px;
+}
+.green-button {
+	width: 144px;
+	height: 36px;
+	background-color: #009688;
+	border-radius: 2px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+	border: none;
+	font-family: "Roboto";
+	box-shadow: 0px 2px rgba(0, 0, 0, 0.15);
+	display: block;
+	margin: 0 auto 28px;
+
 }
